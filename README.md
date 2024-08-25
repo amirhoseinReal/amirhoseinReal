@@ -16,7 +16,7 @@
 ### 🚀 My Projects
 
 - [Coffee Sales Project in Excel](https://github.com/amirhoseinpirsarandib/excel-project-coffee-sales-main)
-- [Data Jobs in SQL](https://github.com/amirhoseinpirsarandib/sql_project_data_jobs)
+- [Data Analyst Job Market Analysis in SQL](https://github.com/amirhoseinpirsarandib/sql_project_data_jobs)
 - [Data Cleaning in Python](https://github.com/amirhoseinpirsarandib/Python_Data_Cleaning)
   
 
