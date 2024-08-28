@@ -8,7 +8,7 @@
 
 
 ### 🖥 Skills
-
+- Data Analysis
 - Data Visualization
 - Data Cleaning
 
